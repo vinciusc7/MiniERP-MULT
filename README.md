@@ -1,6 +1,6 @@
 # MiniERP-MULT
 
-Todos os Scirpits neste repositório possuem comentarios explicando a funcionalidade de cada código.
+Todos os Scirpits neste repositório possuem comentarios explicando a funcionalidade de cada código. <\br>
 Segue Modelo entidade e relacionamento (MER) do projeto:
 =======
 MER para entendimento das tabelas e suas relações:
