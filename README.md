@@ -1,2 +1,3 @@
 # MiniERP-MULT
-Base de dados construída a fim de praticar técnicas de SQL/ T-SQL 
+MER para entendimento das tabelas e suas relações:
+image.png
